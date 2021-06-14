@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Apache Spark
 - 💞️ I’m looking to collaborate on setting up data lake for testbook
-- 📫 How to reach me akshay.gupta@testbook.com
+- 📫 How to reach me akshay@merklescience.com
 
 <!---
 akshay-ghy/akshay-ghy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
