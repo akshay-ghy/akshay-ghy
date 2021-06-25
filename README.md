@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @akshay-ghy
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Apache Spark
+- 👋 Hi, I’m Akshay
+- 👀 I’m interested in Data Science & Engineering
+- 🌱 I’m contantly trying to learn new things. 
 - 💞️ I’m looking to contributing to Merkle Science Data Engineering Team
 - 📫 How to reach me akshay@merklescience.com
 
